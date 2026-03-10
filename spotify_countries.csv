@@ -1,0 +1,75 @@
+code,name,data_key
+global,Global,/charts/overview/global
+ar,Argentina,/charts/overview/ar
+au,Australia,/charts/overview/au
+at,Austria,/charts/overview/at
+by,Belarus,/charts/overview/by
+be,Belgium,/charts/overview/be
+bo,Bolivia,/charts/overview/bo
+br,Brazil,/charts/overview/br
+bg,Bulgaria,/charts/overview/bg
+ca,Canada,/charts/overview/ca
+cl,Chile,/charts/overview/cl
+co,Colombia,/charts/overview/co
+cr,Costa Rica,/charts/overview/cr
+cy,Cyprus,/charts/overview/cy
+cz,Czech Republic,/charts/overview/cz
+dk,Denmark,/charts/overview/dk
+do,Dominican Republic,/charts/overview/do
+ec,Ecuador,/charts/overview/ec
+eg,Egypt,/charts/overview/eg
+sv,El Salvador,/charts/overview/sv
+ee,Estonia,/charts/overview/ee
+fi,Finland,/charts/overview/fi
+fr,France,/charts/overview/fr
+de,Germany,/charts/overview/de
+gr,Greece,/charts/overview/gr
+gt,Guatemala,/charts/overview/gt
+hn,Honduras,/charts/overview/hn
+hk,Hong Kong,/charts/overview/hk
+hu,Hungary,/charts/overview/hu
+is,Iceland,/charts/overview/is
+in,India,/charts/overview/in
+id,Indonesia,/charts/overview/id
+ie,Ireland,/charts/overview/ie
+il,Israel,/charts/overview/il
+it,Italy,/charts/overview/it
+jp,Japan,/charts/overview/jp
+kz,Kazakhstan,/charts/overview/kz
+lv,Latvia,/charts/overview/lv
+lt,Lithuania,/charts/overview/lt
+lu,Luxembourg,/charts/overview/lu
+my,Malaysia,/charts/overview/my
+mx,Mexico,/charts/overview/mx
+ma,Morocco,/charts/overview/ma
+nl,Netherlands,/charts/overview/nl
+nz,New Zealand,/charts/overview/nz
+ni,Nicaragua,/charts/overview/ni
+ng,Nigeria,/charts/overview/ng
+no,Norway,/charts/overview/no
+pk,Pakistan,/charts/overview/pk
+pa,Panama,/charts/overview/pa
+py,Paraguay,/charts/overview/py
+pe,Peru,/charts/overview/pe
+ph,Philippines,/charts/overview/ph
+pl,Poland,/charts/overview/pl
+pt,Portugal,/charts/overview/pt
+ro,Romania,/charts/overview/ro
+sa,Saudi Arabia,/charts/overview/sa
+sg,Singapore,/charts/overview/sg
+sk,Slovakia,/charts/overview/sk
+za,South Africa,/charts/overview/za
+kr,South Korea,/charts/overview/kr
+es,Spain,/charts/overview/es
+se,Sweden,/charts/overview/se
+ch,Switzerland,/charts/overview/ch
+tw,Taiwan,/charts/overview/tw
+th,Thailand,/charts/overview/th
+tr,Turkey,/charts/overview/tr
+ae,UAE,/charts/overview/ae
+ua,Ukraine,/charts/overview/ua
+gb,United Kingdom,/charts/overview/gb
+uy,Uruguay,/charts/overview/uy
+us,USA,/charts/overview/us
+ve,Venezuela,/charts/overview/ve
+vn,Vietnam,/charts/overview/vn
